@@ -30,7 +30,8 @@ const userRoutes = require("./routes/users");
 const wishlistRoutes = require("./routes/wishlist");
 
 // Connect mongoose to MongoDB.
-const mongoDB = `mongodb+srv://${MONGO_USER}:${MONGO_PASSWORD}@cluster0.ii8vq.mongodb.net/${MONGO_DB_NAME}?retryWrites=true&w=majority`;
+// const mongoDB = `mongodb+srv://${MONGO_USER}:${MONGO_PASSWORD}@cluster0.ii8vq.mongodb.net/${MONGO_DB_NAME}?retryWrites=true&w=majority`;
+const mongoDB = `mongodb://localhost:27017/media`;
 
 mongoose
 	.connect(mongoDB, {
@@ -60,7 +61,7 @@ app.use("/api/wishlists", wishlistRoutes);
 // Home page API Endpoint (define the home page route)
 app.get("/", (req, res) => {
 	res.status(200).send({
-		Message: "Welcome to My Netflix Clone API",
+		Message: "Welcome to My pmg-media Clone API",
 	});
 });
 

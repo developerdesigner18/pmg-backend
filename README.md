@@ -1,6 +1,6 @@
-# Netflix Clone API
+# pmg-media Clone API
 
-Free Open source Netflix API built by the power of JavaScript and Node.js
+Free Open source pmg-media API built by the power of JavaScript and Node.js
 
 
 # Table of contents
@@ -38,8 +38,8 @@ Free Open source Netflix API built by the power of JavaScript and Node.js
 # Demo
 
 ###  <a href="https://nefilx-saddam.herokuapp.com/">LIVE API Demo</a>
-###  <a href="https://netflix-saddam.netlify.app">LIVE Webside DEMO </a>
-###  <a href="https://github.com/saddamarbaa/netflix-clone-vanillaJS">Front-End REPO</a>
+###  <a href="https://pmg-media-saddam.netlify.app">LIVE Webside DEMO </a>
+###  <a href="https://github.com/saddamarbaa/pmg-media-clone-vanillaJS">Front-End REPO</a>
 
 ####   Testing Email:      testverstion@gmail.com
 ####   Testing Password:    12345test
@@ -48,16 +48,16 @@ Free Open source Netflix API built by the power of JavaScript and Node.js
 
 # Related_Projects
 
-###  Netflix Clone App built with React Js, Redux, Firestore, Firebase Hosting, with complete user authentication
-####  <a href="https://netflix-clone-80070.web.app">LIVE DEMO</a>
-#### <a href="https://github.com/saddamarbaa/netflix-clone-react"> Github Repo </a>
+###  pmg-media Clone App built with React Js, Redux, Firestore, Firebase Hosting, with complete user authentication
+####  <a href="https://pmg-media-clone-80070.web.app">LIVE DEMO</a>
+#### <a href="https://github.com/saddamarbaa/pmg-media-clone-react"> Github Repo </a>
 
 
 
 # Features
 -  Complete user authentication users can sign in, sign out
 -  View top rated movies
--  View all netflix main genres
+-  View all pmg-media main genres
 -  View youtube thriller
 -  Add favorite movies to their wishList
 -  Used TMDb API 
@@ -102,7 +102,7 @@ https://www.facebook.com/saddam.arbaa
 
 
 # Inspiration
-Build By Saddam Arbaa Project inspired by [Netflix] https://www.netflix.com
+Build By Saddam Arbaa Project inspired by [pmg-media] https://www.pmg-media.com
 
 
 # Run_Locally
@@ -110,13 +110,13 @@ Build By Saddam Arbaa Project inspired by [Netflix] https://www.netflix.com
 Clone the project
 
 ```bash
-  https://github.com/saddamarbaa/netflix-clone-api
+  https://github.com/saddamarbaa/pmg-media-clone-api
 ```
 
 Go to the project directory
 
 ```bash
-  cd netflix-clone-api
+  cd pmg-media-clone-api
 ```
 
 Install dependencies
